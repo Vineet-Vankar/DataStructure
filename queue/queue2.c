@@ -66,7 +66,7 @@ void display() {
 }
 
 int main() {
-    struct node* front,rear,head;
+    // struct node* front,rear,head;
     
     int choice;
     
